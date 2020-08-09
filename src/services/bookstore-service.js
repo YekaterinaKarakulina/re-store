@@ -12,7 +12,6 @@ export default class BookstoreService {
         title: 'Release it!',
         author: 'Michael T. Nygard'
       }
-
     ];
   }
 }
